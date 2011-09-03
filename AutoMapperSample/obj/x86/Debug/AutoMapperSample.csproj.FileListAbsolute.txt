@@ -1,0 +1,7 @@
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.exe.config
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.exe
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.pdb
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.dll
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\obj\x86\Debug\AutoMapperSample.exe
+E:\Documents\Visual Studio 2010\Projects\AutoMapperSample\AutoMapperSample\obj\x86\Debug\AutoMapperSample.pdb
